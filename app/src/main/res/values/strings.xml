@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather Statistics</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_places">PlacesActivity</string>
+    <string name="add_place">Add place</string>
+    <string name="ok">ok</string>
+    <string name="cancel">cancel</string>
+    <string name="get_weather">get weather</string>
+</resources>
